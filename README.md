@@ -1,1 +1,3 @@
 # TERMO
+
+Integrante: João Pedro
